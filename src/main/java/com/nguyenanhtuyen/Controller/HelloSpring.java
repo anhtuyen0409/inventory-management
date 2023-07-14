@@ -1,4 +1,4 @@
-package com.nguyenanhtuyen.Controller;
+package com.nguyenanhtuyen.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
